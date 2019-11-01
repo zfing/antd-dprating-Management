@@ -1,0 +1,20 @@
+[
+  {"id":"2","name":"申请记录","icon":"idcard","route":"/applyRecord"},
+  {"id":"1","name":"用户管理","icon":"user"},
+  {"id":"1001","name":"分析师","bpid": "1","mpid": "1","icon":"solution","route":"/account"},
+  {"id":"1002","name":"用户","bpid": "1","mpid": "1","icon":"contacts","route":"/accountUsers"},
+  {"id":"7","name":"项目信息","icon":"edit","route":"/project"},
+  {"id":"3","name":"评级报告","icon":"pushpin","route":"/ratingReport"},
+  {"id":"5","name":"动态内容","icon":"bars","route":"/dynamicContent"},
+  {"id":"6","name":"轮播图","icon":"picture","route":"/sowingMap"},
+  {"id":"9","name":"交易所","icon":"safety","route":"/exchange"},
+  {"id":"10","name":"投资机构","icon":"bank","route":"/investmentAgency"},
+  {"id":"11","name":"友情链接","icon":"heart","route":"/friendlyLink"},
+  {"id":"12","name":"行情分析","icon":"book","route":"/analysis"},
+  {"id":"14","name":"爆料","icon":"sound","route":"/broke"},
+  {"id":"13","name":"评论&回复","icon":"message","route":"/message"},
+  {"id":"15","name":"投票评级","icon":"like"},
+  {"id":"152","name":"投票项目","bpid": "15","mpid": "15","icon":"tag-o","route":"/voteProject"},
+  {"id":"151","name":"创建投票","bpid": "15","mpid": "15","icon":"tag","route":"/createVote"},
+  {"id":"8","name":"上传文件","icon":"upload","route":"/fileUpload"}
+]
